@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Health</string>
+    <string name="title_home">Home</string>
+    <string name="title_bmi">BMI</string>
+    <string name="title_kcal">Kcal</string>
+    <string name="title_recipes">Recipes</string>
+    <string name="enter_weight">Enter weight (kg)</string>
+    <string name="enter_height">Enter height (cm)</string>
+    <string name="enter_age">Enter age (years)</string>
+    <string name="bmi">Your BMI:</string>
+    <string name="bmi_value">0</string>
+    <string name="sex_radio_female_label">Female</string>
+    <string name="sex_radio_male_label">Male</string>
+    <string name="title_sex">Choose Sex</string>
+    <string name="bmr">Your BMR (calories):</string>
+    <string name="bmr_value">0</string>
+    <string name="ingredients_value">Integrades:</string>
+    <string name="preparation_value">Preparation:</string>
+    <string name="recipe_title1">Mexican pulled chicken and beans</string>
+    <string name="recipe_title2">Spiced lentil and butternut squash soup</string>
+</resources>
