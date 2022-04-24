@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item
         android:id="@+id/navigation_home"
@@ -20,5 +20,10 @@
         android:id="@+id/navigation_przepisy"
         android:icon="@drawable/ic_przepisy_black_24dp"
         android:title="@string/title_recipes" />
+
+    <item
+        android:id="@+id/navigation_quiz"
+        android:icon="@drawable/ic_baseline_quiz_24"
+        android:title="@string/title_quiz" />
 
 </menu>

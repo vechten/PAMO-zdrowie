@@ -26,4 +26,9 @@
         android:id="@+id/navigation_przepisy"
         android:name="com.example.zdrowie.ui.recipes.PreparationFragment"
         android:label="@string/title_recipes" />
+
+    <fragment
+        android:id="@+id/navigation_quiz"
+        android:name="com.example.zdrowie.ui.quiz.QuizFragment"
+        android:label="@string/title_quiz" />
 </navigation>

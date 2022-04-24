@@ -19,4 +19,5 @@
     <string name="recipe_title1">Mexican pulled chicken and beans</string>
     <string name="recipe_title2">Spiced lentil and butternut squash soup</string>
     <string name="save_button">Save</string>
+    <string name="title_quiz">Quiz</string>
 </resources>
