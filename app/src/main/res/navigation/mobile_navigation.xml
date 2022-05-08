@@ -7,28 +7,28 @@
 
     <fragment
         android:id="@+id/navigation_home"
-        android:name="com.example.zdrowie.ui.home.HomeFragment"
+        android:name="com.example.zdrowie.java.ui.home.HomeFragment"
         android:label="@string/title_home"
         tools:layout="@layout/fragment_home" />
 
     <fragment
         android:id="@+id/navigation_bmi"
-        android:name="com.example.zdrowie.ui.bmi.BmiFragment"
+        android:name="com.example.zdrowie.java.ui.bmi.BmiFragment"
         android:label="@string/title_bmi"
         tools:layout="@layout/fragment_kcal" />
 
     <fragment
         android:id="@+id/navigation_kcal"
-        android:name="com.example.zdrowie.ui.kcal.KcalFragment"
+        android:name="com.example.zdrowie.java.ui.kcal.KcalFragment"
         android:label="@string/title_kcal"
         tools:layout="@layout/fragment_preparation" />
     <fragment
         android:id="@+id/navigation_przepisy"
-        android:name="com.example.zdrowie.ui.recipes.PreparationFragment"
+        android:name="com.example.zdrowie.java.ui.recipes.PreparationFragment"
         android:label="@string/title_recipes" />
 
     <fragment
         android:id="@+id/navigation_quiz"
-        android:name="com.example.zdrowie.ui.quiz.QuizFragment"
+        android:name="com.example.zdrowie.java.ui.quiz.QuizFragment"
         android:label="@string/title_quiz" />
 </navigation>

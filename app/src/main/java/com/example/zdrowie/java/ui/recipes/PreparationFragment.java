@@ -1,4 +1,4 @@
-package com.example.zdrowie.ui.recipes;
+package com.example.zdrowie.java.ui.recipes;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
